@@ -1,5 +1,59 @@
-# Vue 3 + TypeScript + Vite
+# Virtara Kitap Projesi
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Proje Hakkında
+Virtara Kitap, modern bir kitap alışveriş platformudur. Vue 3 kullanılarak geliştirilmiş, kullanıcı dostu bir web uygulamasıdır.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Özellikler
+- 📚 Kapsamlı kitap kataloğu
+- 🛒 Alışveriş sepeti yönetimi
+- ❤️ Favori kitaplar listesi
+- 🌍 Çoklu dil desteği (Türkçe/İngilizce)
+- 💰 Farklı para birimi desteği
+- 🔐 Kullanıcı kimlik doğrulama sistemi
+
+## Teknoloji Yığını
+- Vue.js 3 (Composition API)
+- TypeScript
+- Vite
+- Vue Router
+- Vuex
+- Vuelidate
+- bcrypt.js
+
+## Kurulum
+
+### Gereksinimler
+- Node.js (v14 veya üzeri)
+- npm veya yarn
+
+### Projeyi Başlatma
+1. Projeyi klonlayın:
+```bash
+git clone [proje-url]
+cd virtara-case
+```
+
+2. Bağımlılıkları yükleyin:
+```bash
+npm install
+
+3. Geliştirme sunucusunu başlatın:
+```bash
+npm run dev
+```
+
+## Proje Yapısı
+```
+src/
+├── assets/        # Stil dosyaları ve görseller
+├── components/    # Yeniden kullanılabilir Vue bileşenleri
+├── data/          # JSON veri dosyaları
+├── directives/    # Özel Vue direktifleri
+├── locales/       # Dil dosyaları
+├── mixins/        # Vue mixinleri
+├── router/        # Vue Router yapılandırması
+├── services/      # API servisleri ve yardımcı fonksiyonlar
+├── store/         # Vuex store modülleri
+└── views/         # Sayfa bileşenleri
+```
+
