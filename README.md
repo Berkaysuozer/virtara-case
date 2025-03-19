@@ -3,7 +3,7 @@
 ## Proje Hakkında
 Virtara Kitap, modern bir kitap alışveriş platformudur. Vue 3 kullanılarak geliştirilmiş, kullanıcı dostu bir web uygulamasıdır.
 
-## Özellikler
+## Features
 - 📚 Kapsamlı kitap kataloğu
 - 🛒 Alışveriş sepeti yönetimi
 - ❤️ Favori kitaplar listesi
@@ -11,7 +11,7 @@ Virtara Kitap, modern bir kitap alışveriş platformudur. Vue 3 kullanılarak g
 - 💰 Farklı para birimi desteği
 - 🔐 Kullanıcı kimlik doğrulama sistemi
 
-## Teknoloji Yığını
+## Tech Stack
 - Vue.js 3 (Composition API)
 - TypeScript
 - Vite
@@ -20,13 +20,12 @@ Virtara Kitap, modern bir kitap alışveriş platformudur. Vue 3 kullanılarak g
 - Vuelidate
 - bcrypt.js
 
-## Kurulum
+## İnitial Setup
 
-### Gereksinimler
 - Node.js (v14 veya üzeri)
 - npm veya yarn
 
-### Projeyi Başlatma
+### Start Project
 1. Projeyi klonlayın:
 ```bash
 git clone [proje-url]
@@ -42,7 +41,7 @@ npm install
 npm run dev
 ```
 
-## Proje Yapısı
+## Project Structure
 ```
 src/
 ├── assets/        # Stil dosyaları ve görseller
