@@ -1,0 +1,470 @@
+[
+    {
+        "id": 1,
+        "book_name_en": "To Kill a Mockingbird",
+        "book_name_tr": "Bülbülü Öldürmek",
+        "page_count": 336,
+        "author_name": "Harper Lee",
+        "category": "Fiction",
+        "published_year": 1960,
+        "image": "https://covers.openlibrary.org/b/id/8370291-L.jpg",
+        "usd_price": 15.99,
+        "description_en": "A novel about the serious issues of rape and racial inequality, told through the eyes of young Scout Finch.",
+        "description_tr": "Genç Scout Finch'in gözünden, tecavüz ve ırksal eşitsizlik gibi ciddi konuları ele alan bir roman.",
+        "meta_data": {
+            "ISBN": "9780060935467",
+            "Page Count": 336,
+            "Publication Date": "1960-07-11"
+        }
+    },
+    {
+        "id": 2,
+        "book_name_en": "1984",
+        "book_name_tr": "1984",
+        "page_count": 328,
+        "author_name": "George Orwell",
+        "category": "Dystopian Fiction",
+        "published_year": 1949,
+        "image": "https://covers.openlibrary.org/b/id/8575648-L.jpg",
+        "usd_price": 12.99,
+        "description_en": "A dystopian novel set in a totalitarian society where critical thought is suppressed under a regime of surveillance and propaganda.",
+        "description_tr": "Gözetim ve propaganda rejimi altında eleştirel düşüncenin bastırıldığı totaliter bir toplumda geçen distopik bir roman.",
+        "meta_data": {
+            "ISBN": "9780451524935",
+            "Page Count": 328,
+            "Publication Date": "1949-06-08"
+        }
+    },
+    {
+        "id": 3,
+        "book_name_en": "Pride and Prejudice",
+        "book_name_tr": "Gurur ve Önyargı",
+        "page_count": 432,
+        "author_name": "Jane Austen",
+        "category": "Classic Literature",
+        "published_year": 1813,
+        "image": "https://covers.openlibrary.org/b/id/6995592-L.jpg",
+        "usd_price": 9.99,
+        "description_en": "A romantic novel that follows the emotional development of Elizabeth Bennet as she deals with issues of manners, upbringing, morality, and marriage.",
+        "description_tr": "Elizabeth Bennet'in görgü, yetiştirme, ahlak ve evlilik konularıyla ilgilenirken duygusal gelişimini takip eden romantik bir roman.",
+        "meta_data": {
+            "ISBN": "9780141439518",
+            "Page Count": 432,
+            "Publication Date": "1813-01-28"
+        }
+    },
+    {
+        "id": 4,
+        "book_name_en": "The Great Gatsby",
+        "book_name_tr": "Muhteşem Gatsby",
+        "page_count": 180,
+        "author_name": "F. Scott Fitzgerald",
+        "category": "Classic Literature",
+        "published_year": 1925,
+        "image": "https://covers.openlibrary.org/b/id/8164866-L.jpg",
+        "usd_price": 12.50,
+        "description_en": "A novel that examines the dark side of the American Dream through the tragic story of Jay Gatsby and his pursuit of Daisy Buchanan.",
+        "description_tr": "Jay Gatsby'nin Daisy Buchanan'ı takip etmesi üzerinden Amerikan Rüyası'nın karanlık yüzünü inceleyen trajik bir roman.",
+        "meta_data": {
+            "ISBN": "9780743273565",
+            "Page Count": 180,
+            "Publication Date": "1925-04-10"
+        }
+    },
+    {
+        "id": 5,
+        "book_name_en": "The Catcher in the Rye",
+        "book_name_tr": "Çavdar Tarlasında Çocuklar",
+        "page_count": 224,
+        "author_name": "J.D. Salinger",
+        "category": "Fiction",
+        "published_year": 1951,
+        "image": "https://covers.openlibrary.org/b/id/8231488-L.jpg",
+        "usd_price": 11.99,
+        "description_en": "A story of teenage angst and alienation through the experiences of its protagonist, Holden Caulfield.",
+        "description_tr": "Holden Caulfield karakterinin deneyimleri üzerinden ergen sıkıntısını ve yabancılaşmayı anlatan bir hikaye.",
+        "meta_data": {
+            "ISBN": "9780316769488",
+            "Page Count": 224,
+            "Publication Date": "1951-07-16"
+        }
+    },
+    {
+        "id": 6,
+        "book_name_en": "Harry Potter and the Philosopher's Stone",
+        "book_name_tr": "Harry Potter ve Felsefe Taşı",
+        "page_count": 332,
+        "author_name": "J.K. Rowling",
+        "category": "Fantasy",
+        "published_year": 1997,
+        "image": "https://covers.openlibrary.org/b/id/10110415-L.jpg",
+        "usd_price": 18.99,
+        "description_en": "The first novel in the Harry Potter series, following the life of a young wizard, Harry Potter, and his friends at Hogwarts School of Witchcraft and Wizardry.",
+        "description_tr": "Harry Potter serisinin ilk romanı, genç büyücü Harry Potter'ın ve arkadaşlarının Hogwarts Cadılık ve Büyücülük Okulu'ndaki yaşamını anlatır.",
+        "meta_data": {
+            "ISBN": "9780747532743",
+            "Page Count": 332,
+            "Publication Date": "1997-06-26"
+        }
+    },
+    {
+        "id": 7,
+        "book_name_en": "The Hobbit",
+        "book_name_tr": "Hobbit",
+        "page_count": 366,
+        "author_name": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "published_year": 1937,
+        "image": "https://covers.openlibrary.org/b/id/12003830-L.jpg",
+        "usd_price": 14.99,
+        "description_en": "A fantasy novel about the quest of home-loving Bilbo Baggins to win a share of the treasure guarded by Smaug the dragon.",
+        "description_tr": "Evine düşkün Bilbo Baggins'in Smaug ejderhası tarafından korunan hazineden pay almak için çıktığı macera hakkında fantastik bir roman.",
+        "meta_data": {
+            "ISBN": "9780618260300",
+            "Page Count": 366,
+            "Publication Date": "1937-09-21"
+        }
+    },
+    {
+        "id": 8,
+        "book_name_en": "The Alchemist",
+        "book_name_tr": "Simyacı",
+        "page_count": 208,
+        "author_name": "Paulo Coelho",
+        "category": "Fiction",
+        "published_year": 1988,
+        "image": "https://covers.openlibrary.org/b/id/8587804-L.jpg",
+        "usd_price": 16.99,
+        "description_en": "A philosophical novel that follows the journey of a young Andalusian shepherd named Santiago who dreams of finding worldly treasures.",
+        "description_tr": "Dünyevi hazineler bulmayı hayal eden Santiago adlı genç bir Endülüslü çobanın yolculuğunu anlatan felsefi bir roman.",
+        "meta_data": {
+            "ISBN": "9780062315007",
+            "Page Count": 208,
+            "Publication Date": "1988-06-01"
+        }
+    },
+    {
+        "id": 9,
+        "book_name_en": "The Lord of the Rings",
+        "book_name_tr": "Yüzüklerin Efendisi",
+        "page_count": 1178,
+        "author_name": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "published_year": 1954,
+        "image": "https://covers.openlibrary.org/b/id/12548997-L.jpg",
+        "usd_price": 29.99,
+        "description_en": "An epic high-fantasy novel that follows the quest to destroy the One Ring, a powerful artifact created by the Dark Lord Sauron.",
+        "description_tr": "Karanlık Lord Sauron tarafından yaratılan güçlü bir eser olan Tek Yüzük'ü yok etme arayışını anlatan epik bir yüksek fantezi romanı.",
+        "meta_data": {
+            "ISBN": "9780618640157",
+            "Page Count": 1178,
+            "Publication Date": "1954-07-29"
+        }
+    },
+    {
+        "id": 10,
+        "book_name_en": "Crime and Punishment",
+        "book_name_tr": "Suç ve Ceza",
+        "page_count": 560,
+        "author_name": "Fyodor Dostoevsky",
+        "category": "Classic Literature",
+        "published_year": 1866,
+        "image": "https://covers.openlibrary.org/b/id/8309144-L.jpg",
+        "usd_price": 15.50,
+        "description_en": "A novel that explores the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in Saint Petersburg who formulates a plan to kill an unscrupulous pawnbroker.",
+        "description_tr": "Vicdansız bir tefeciye öldürme planı yapan, Saint Petersburg'da yoksul bir eski öğrenci olan Rodion Raskolnikov'un zihinsel ıstırabını ve ahlaki ikilemlerini araştıran bir roman.",
+        "meta_data": {
+            "ISBN": "9780143107637",
+            "Page Count": 560,
+            "Publication Date": "1866-01-01"
+        }
+    },
+    {
+        "id": 11,
+        "book_name_en": "The Odyssey",
+        "book_name_tr": "Odysseia",
+        "page_count": 416,
+        "author_name": "Homer",
+        "category": "Classic Literature",
+        "published_year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/12066716-L.jpg",
+        "usd_price": 13.99,
+        "description_en": "An ancient Greek epic poem that follows the Greek hero Odysseus on his journey home after the fall of Troy.",
+        "description_tr": "Truva'nın düşüşünden sonra Yunan kahraman Odysseus'un eve yolculuğunu anlatan antik Yunan destanı.",
+        "meta_data": {
+            "ISBN": "9780140268867",
+            "Page Count": 416,
+            "Publication Date": "2000-01-01"
+        }
+    },
+    {
+        "id": 12,
+        "book_name_en": "Don Quixote",
+        "book_name_tr": "Don Kişot",
+        "page_count": 992,
+        "author_name": "Miguel de Cervantes",
+        "category": "Classic Literature",
+        "published_year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/12860750-L.jpg",
+        "usd_price": 18.95,
+        "description_en": "A Spanish novel that follows the adventures of a man who reads so many chivalric romances that he loses his mind and decides to become a knight-errant.",
+        "description_tr": "O kadar çok şövalyelik romanı okuyan bir adamın aklını kaybedip gezgin şövalye olmaya karar vermesini anlatan İspanyol bir roman.",
+        "meta_data": {
+            "ISBN": "9780060934347",
+            "Page Count": 992,
+            "Publication Date": "1993-01-16"
+        }
+    },
+    {
+        "id": 13,
+        "book_name_en": "Sapiens: A Brief History of Humankind",
+        "book_name_tr": "Sapiens: İnsan Türünün Kısa Bir Tarihi",
+        "page_count": 464,
+        "author_name": "Yuval Noah Harari",
+        "category": "Non-fiction",
+        "published_year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/8604872-L.jpg",
+        "usd_price": 24.99,
+        "description_en": "A book that explores the history of humankind from the evolution of archaic human species to the 21st century.",
+        "description_tr": "Arkaik insan türlerinin evriminden 21. yüzyıla kadar insanlık tarihini araştıran bir kitap.",
+        "meta_data": {
+            "ISBN": "9780062316097",
+            "Page Count": 464,
+            "Publication Date": "2011-02-10"
+        }
+    },
+    {
+        "id": 14,
+        "book_name_en": "A Brief History of Time",
+        "book_name_tr": "Zamanın Kısa Tarihi",
+        "page_count": 256,
+        "author_name": "Stephen Hawking",
+        "category": "Science",
+        "published_year": 1988,
+        "image": "https://covers.openlibrary.org/b/id/6518400-L.jpg",
+        "usd_price": 18.00,
+        "description_en": "A book that explores the nature of time, space, and the universe, written for non-specialist readers.",
+        "description_tr": "Uzman olmayan okuyucular için yazılmış, zamanın, uzayın ve evrenin doğasını araştıran bir kitap.",
+        "meta_data": {
+            "ISBN": "9780553380163",
+            "Page Count": 256,
+            "Publication Date": "1988-04-01"
+        }
+    },
+    {
+        "id": 15,
+        "book_name_en": "The Divine Comedy",
+        "book_name_tr": "İlahi Komedya",
+        "page_count": 798,
+        "author_name": "Dante Alighieri",
+        "category": "Classic Literature",
+        "published_year": 1990,
+        "image": "https://covers.openlibrary.org/b/id/931060-L.jpg",
+        "usd_price": 21.00,
+        "description_en": "An Italian narrative poem that represents the journey of the soul toward God, with the Roman poet Virgil guiding the protagonist through Hell and Purgatory.",
+        "description_tr": "Ruhun Tanrı'ya doğru yolculuğunu temsil eden, Romalı şair Virgil'in protagonisti Cehennem ve Araf boyunca yönlendirdiği İtalyan bir anlatı şiiri.",
+        "meta_data": {
+            "ISBN": "9780451208637",
+            "Page Count": 798,
+            "Publication Date": "1990-01-01"
+        }
+    },
+    {
+        "id": 16,
+        "book_name_en": "Moby-Dick",
+        "book_name_tr": "Moby Dick",
+        "page_count": 654,
+        "author_name": "Herman Melville",
+        "category": "Classic Literature",
+        "published_year": 1851,
+        "image": "https://covers.openlibrary.org/b/id/8259999-L.jpg",
+        "usd_price": 16.00,
+        "description_en": "A novel that tells the story of the obsessive quest of Ahab, captain of the whaler Pequod, for revenge on Moby Dick, the giant white sperm whale that bit off his leg.",
+        "description_tr": "Balina gemisi Pequod'un kaptanı Ahab'ın, bacağını koparan dev beyaz ispermeçet balinası Moby Dick'ten intikam alma takıntılı arayışının hikayesini anlatan bir roman.",
+        "meta_data": {
+            "ISBN": "9780142437247",
+            "Page Count": 654,
+            "Publication Date": "1851-10-18"
+        }
+    },
+    {
+        "id": 17,
+        "book_name_en": "The Brothers Karamazov",
+        "book_name_tr": "Karamazov Kardeşler",
+        "page_count": 824,
+        "author_name": "Fyodor Dostoevsky",
+        "category": "Classic Literature",
+        "published_year": 1880,
+        "image": "https://covers.openlibrary.org/b/id/8252266-L.jpg",
+        "usd_price": 19.99,
+        "description_en": "A philosophical novel that enters deeply into the ethical debates of God, free will, and morality, set in 19th-century Russia.",
+        "description_tr": "19. yüzyıl Rusya'sında geçen, Tanrı, özgür irade ve ahlak konularındaki etik tartışmalara derinlemesine giren felsefi bir roman.",
+        "meta_data": {
+            "ISBN": "9780374528379",
+            "Page Count": 824,
+            "Publication Date": "1880-11-01"
+        }
+    },
+    {
+        "id": 18,
+        "book_name_en": "One Hundred Years of Solitude",
+        "book_name_tr": "Yüzyıllık Yalnızlık",
+        "page_count": 448,
+        "author_name": "Gabriel García Márquez",
+        "category": "Magical Realism",
+        "published_year": 1967,
+        "image": "https://covers.openlibrary.org/b/id/8700526-L.jpg",
+        "usd_price": 16.99,
+        "description_en": "A landmark novel that tells the multi-generational story of the Buendía family, whose patriarch founds the town of Macondo.",
+        "description_tr": "Ataerkil lideri Macondo kasabasını kuran Buendía ailesinin çok kuşaklı hikayesini anlatan çığır açan bir roman.",
+        "meta_data": {
+            "ISBN": "9780060883287",
+            "Page Count": 448,
+            "Publication Date": "1967-05-30"
+        }
+    },
+    {
+        "id": 19,
+        "book_name_en": "War and Peace",
+        "book_name_tr": "Savaş ve Barış",
+        "page_count": 1296,
+        "author_name": "Leo Tolstoy",
+        "category": "Classic Literature",
+        "published_year": 1867,
+        "image": "https://covers.openlibrary.org/b/id/8314135-L.jpg",
+        "usd_price": 22.00,
+        "description_en": "A novel that chronicles the French invasion of Russia and the impact of the Napoleonic era on Tsarist society through the stories of five Russian aristocratic families.",
+        "description_tr": "Beş Rus aristokrat ailesinin hikayeleri üzerinden Fransa'nın Rusya'yı işgalini ve Napolyon döneminin Çarlık toplumu üzerindeki etkisini anlatan bir roman.",
+        "meta_data": {
+            "ISBN": "9781400079988",
+            "Page Count": 1296,
+            "Publication Date": "1867-01-01"
+        }
+    },
+    {
+        "id": 20,
+        "book_name_en": "Anna Karenina",
+        "book_name_tr": "Anna Karenina",
+        "page_count": 864,
+        "author_name": "Leo Tolstoy",
+        "category": "Classic Literature",
+        "published_year": 1877,
+        "image": "https://covers.openlibrary.org/b/id/8314148-L.jpg",
+        "usd_price": 17.95,
+        "description_en": "A novel that explores themes of betrayal, faith, family, and Russian society through the doomed love affair between Anna Karenina and Count Vronsky.",
+        "description_tr": "Anna Karenina ve Kont Vronsky arasındaki talihsiz aşk ilişkisi üzerinden ihanet, inanç, aile ve Rus toplumu temalarını araştıran bir roman.",
+        "meta_data": {
+            "ISBN": "9780143035008",
+            "Page Count": 864,
+            "Publication Date": "1877-01-01"
+        }
+    },
+    {
+        "id": 21,
+        "book_name_en": "The Picture of Dorian Gray",
+        "book_name_tr": "Dorian Gray'in Portresi",
+        "page_count": 254,
+        "author_name": "Oscar Wilde",
+        "category": "Gothic Fiction",
+        "published_year": 1890,
+        "image": "https://covers.openlibrary.org/b/id/8364062-L.jpg",
+        "usd_price": 11.00,
+        "description_en": "A Gothic novel that tells of a young man named Dorian Gray, who sells his soul for eternal youth and beauty.",
+        "description_tr": "Sonsuz gençlik ve güzellik için ruhunu satan Dorian Gray adlı genç bir adamın hikayesini anlatan Gotik bir roman.",
+        "meta_data": {
+            "ISBN": "9780141439570",
+            "Page Count": 254,
+            "Publication Date": "1890-07-01"
+        }
+    },
+    {
+        "id": 22,
+        "book_name_en": "Brave New World",
+        "book_name_tr": "Cesur Yeni Dünya",
+        "page_count": 288,
+        "author_name": "Aldous Huxley",
+        "category": "Dystopian Fiction",
+        "published_year": 1932,
+        "image": "https://covers.openlibrary.org/b/id/9276361-L.jpg",
+        "usd_price": 14.99,
+        "description_en": "A dystopian novel set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy.",
+        "description_tr": "Vatandaşlarının zekaya dayalı sosyal hiyerarşi için çevresel olarak tasarlandığı fütüristik bir Dünya Devleti'nde geçen distopik bir roman.",
+        "meta_data": {
+            "ISBN": "9780060850524",
+            "Page Count": 288,
+            "Publication Date": "1932-01-01"
+        }
+    },
+    {
+        "id": 23,
+        "book_name_en": "Les Misérables",
+        "book_name_tr": "Sefiller",
+        "page_count": 1488,
+        "author_name": "Victor Hugo",
+        "category": "Classic Literature",
+        "published_year": 1862,
+        "image": "https://covers.openlibrary.org/b/id/8881488-L.jpg",
+        "usd_price": 22.00,
+        "description_en": "A historical novel that examines the nature of law and grace, following the lives and interactions of several characters, particularly the struggles of ex-convict Jean Valjean.",
+        "description_tr": "Yasanın ve lütfun doğasını inceleyen, özellikle eski mahkum Jean Valjean'ın mücadeleleri olmak üzere çeşitli karakterlerin hayatlarını ve etkileşimlerini takip eden tarihi bir roman.",
+        "meta_data": {
+            "ISBN": "9780451419439",
+            "Page Count": 1488,
+            "Publication Date": "1862-01-01"
+        }
+    },
+    {
+        "id": 24,
+        "book_name_en": "The Count of Monte Cristo",
+        "book_name_tr": "Monte Kristo Kontu",
+        "page_count": 1276,
+        "author_name": "Alexandre Dumas",
+        "category": "Adventure Fiction",
+        "published_year": 1844,
+        "image": "https://covers.openlibrary.org/b/id/12638962-L.jpg",
+        "usd_price": 20.00,
+        "description_en": "An adventure novel centered on a man who is wrongfully imprisoned, escapes from jail, acquires a fortune, and sets about exacting revenge on those responsible for his imprisonment.",
+        "description_tr": "Haksız yere hapsedilen, hapisten kaçan, bir servet edinen ve hapsolmasından sorumlu olanlardan intikam almaya başlayan bir adam etrafında dönen macera romanı.",
+        "meta_data": {
+            "ISBN": "9780140449266",
+            "Page Count": 1276,
+            "Publication Date": "1844-01-01"
+        }
+    },
+    {
+        "id": 25,
+        "book_name_en": "The Little Prince",
+        "book_name_tr": "Küçük Prens",
+        "page_count": 96,
+        "author_name": "Antoine de Saint-Exupéry",
+        "category": "Children's Literature",
+        "published_year": 1943,
+        "image": "https://covers.openlibrary.org/b/id/8379161-L.jpg",
+        "usd_price": 11.00,
+        "description_en": "A poetic tale that explores the strangeness of the adult world through the eyes of a young prince who has fallen to Earth from an asteroid.",
+        "description_tr": "Bir asteroidten Dünya'ya düşen genç bir prensin gözünden yetişkin dünyasının tuhaflığını araştıran şiirsel bir hikaye.",
+        "meta_data": {
+            "ISBN": "9780156012195",
+            "Page Count": 96,
+            "Publication Date": "1943-04-06"
+        }
+    },
+    {
+        "id": 26,
+        "book_name_en": "Jane Eyre",
+        "book_name_tr": "Jane Eyre",
+        "page_count": 532,
+        "author_name": "Charlotte Brontë",
+        "category": "Gothic Fiction",
+        "published_year": 1847,
+        "image": "https://covers.openlibrary.org/b/id/8652383-L.jpg",
+        "usd_price": 13.99,
+        "description_en": "A novel that follows the emotions and experiences of its eponymous heroine, including her growth to adulthood and her love for Mr. Rochester.",
+        "description_tr": "Adını taşıdığı kahramanın duygularını ve deneyimlerini, yetişkinliğe büyümesi ve Bay Rochester'a olan aşkı da dahil olmak üzere takip eden bir roman.",
+        "meta_data": {
+            "ISBN": "9780141441146",
+            "Page Count": 532,
+            "Publication Date": "1847-10-16"
+        }
+    }
+]

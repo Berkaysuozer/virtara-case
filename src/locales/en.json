@@ -1,0 +1,87 @@
+{
+    "header": {
+      "logo": "Virtara Books",
+      "favorites": "Favorites",
+      "cart": "Cart",
+      "profile": "Profile",
+      "logout": "Logout"
+    },
+    "bookDetail": {
+      "share": "Share",
+      "aboutBook": "About the Book",
+      "details": "Details",
+      "reviews": "Reviews",
+      "writeReview": "Write Your Review",
+      "submitReview": "Submit Review",
+      "noReviews": "No reviews available yet. Be the first to write one!",
+      "similarBooks": "Similar Books",
+      "favoriteRemove": "Remove from Favorites",
+      "favoriteAdd": "Add to Favorites",
+      "addedToCart": "Added to Cart",
+      "addToCart": "Add to Cart"
+    },
+    "cart": {
+      "myCart": "My Cart",
+      "emptyCart": "Your cart is empty.",
+      "orderSummary": "Order Summary",
+      "total": "Total",
+      "completeOrder": "Complete Order",
+      "orderConfirmation": "Order Confirmation",
+      "confirmOrderMessage": "Are you sure you want to complete your order?",
+      "orderSuccess": "YOUR ORDER HAS BEEN SUCCESSFULLY PLACED"
+    },
+    "favorites": {
+      "myFavorites": "My Favorites",
+      "noFavorites": "You have no favorite books yet."
+    },
+    "home": {
+      "title": "Virtara Books",
+      "description": "Discover, read, add to your collection",
+      "featuredBooks": "Featured Books",
+      "allBooks": "All Books"
+    },
+    "auth": {
+      "login": {
+        "title": "Login",
+        "subtitle": "Log in to access your account",
+        "logo_alt": "Virtara Group Logo",
+        "emailLabel": "Email",
+        "passwordLabel": "Password",
+        "submitButton": "Login"
+      },
+      "register": {
+        "title": "Create Account",
+        "subtitle": "Start by creating a new account"
+      },
+      "forgotPassword": {
+        "title": "Password Reset",
+        "subtitle": "Enter your information to reset your password"
+      }
+    },
+    "authLinks": {
+      "createAccount": "Create Account",
+      "forgotPassword": "Forgot Password"
+    },
+    "modal": {
+      "orderConfirmation": "Order Confirmation",
+      "confirmationMessage": "Are you sure you want to complete your order?",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "book": {
+      "add_to_cart": "Add to Cart",
+      "pages": "pages",
+      "all_categories": "All Categories"
+    },
+    "filters": {
+      "title": "Filters",
+      "search_placeholder": "Search for a book or author...",
+      "category": "Category",
+      "publish_year": "Publish Year",
+      "page_count": "Page Count"
+    },
+    "language": {
+      "tr": "Turkish",
+      "en": "English"
+    }
+  }

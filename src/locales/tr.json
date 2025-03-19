@@ -1,0 +1,87 @@
+{
+  "header": {
+    "logo": "Virtara Kitap",
+    "favorites": "Favoriler",
+    "cart": "Sepet",
+    "profile": "Profil",
+    "logout": "Çıkış Yap"
+  },
+    "bookDetail": {
+    "share": "Paylaş",
+    "aboutBook": "Kitap Hakkında",
+    "details": "Detaylar",
+    "reviews": "İncelemeler",
+    "writeReview": "Değerlendirmenizi Yazın",
+    "submitReview": "İnceleme Gönder",
+    "noReviews": "Henüz inceleme bulunmamaktadır. İlk incelemeyi siz yazın!",
+    "similarBooks": "Benzer Kitaplar",
+    "favoriteRemove": "Favorilerden Çıkar",
+    "favoriteAdd": "Favorilere Ekle",
+    "addedToCart": "Sepete Eklendi",
+    "addToCart": "Sepete Ekle"
+  },
+    "cart": {
+    "myCart": "Sepetim",
+    "emptyCart": "Sepetinizde ürün bulunmamaktadır.",
+    "orderSummary": "Sipariş Özeti",
+    "total": "Toplam",
+    "completeOrder": "Siparişi Tamamla",
+    "orderConfirmation": "Sipariş Onayı",
+    "confirmOrderMessage": "Siparişinizi tamamlamak istediğinize emin misiniz?",
+    "orderSuccess": "SİPARİŞİNİZ BAŞARIYLA ALINMIŞTIR"
+  },
+    "favorites": {
+    "myFavorites": "Favorilerim",
+    "noFavorites": "Henüz favori kitabınız bulunmamaktadır."
+  },
+  "home": {
+    "title": "Virtara Kitap",
+    "description": "Keşfedin, okuyun, koleksiyonunuza ekleyin",
+    "featuredBooks": "Öne Çıkan Kitaplar",
+    "allBooks": "Tüm Kitaplar"
+  },
+  "auth": {
+    "login": {
+      "title": "Giriş Yap",
+      "subtitle": "Hesabınıza erişmek için giriş yapın",
+      "logo_alt": "Virtara Group Logo",
+      "emailLabel": "E-posta",
+      "passwordLabel": "Şifre",
+      "submitButton": "Giriş Yap"
+    },
+    "register": {
+      "title": "Hesap Oluştur",
+      "subtitle": "Yeni bir hesap oluşturarak başlayın"
+    },
+    "forgotPassword": {
+      "title": "Şifre Sıfırlama",
+      "subtitle": "Şifrenizi sıfırlamak için bilgilerinizi girin"
+    }
+  },
+  "authLinks": {
+    "createAccount": "Hesap Oluştur",
+    "forgotPassword": "Şifremi Unuttum"
+  },
+  "modal": {
+    "orderConfirmation": "Sipariş Onayı",
+    "confirmationMessage": "Siparişinizi tamamlamak istediğinize emin misiniz?",
+    "cancel": "İptal",
+    "confirm": "Onayla"
+  },
+  "book": {
+    "add_to_cart": "Sepete Ekle",
+    "pages": "sayfa",
+    "all_categories": "Tüm Kategoriler"
+  },
+  "filters": {
+    "title": "Filtreler",
+    "search_placeholder": "Kitap veya yazar ara...",
+    "category": "Kategori",
+    "publish_year": "Yayın Yılı",
+    "page_count": "Sayfa Sayısı"
+  },
+  "language": {
+    "tr": "Türkçe",
+    "en": "English"
+  }
+}
